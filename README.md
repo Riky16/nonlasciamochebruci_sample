@@ -14,6 +14,6 @@ I tipi di giochi vanno dal **CRUCIVERBA**, al **MEMORY** e ogni sotto unità ne 
 - Javascript
 - HTML & CSS
 - Lavoro in Team
-- Elevato lavoro di Problem Solving
+- Problem Solving
 
 p.s. Ovviamente non è possibile mostrare il progetto in quanto non è di mia proprietà
